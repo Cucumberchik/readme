@@ -1,16 +1,16 @@
 [![wakatime](https://wakatime.com/badge/user/018df321-f2ae-4b96-956c-e043943eac57.svg)](https://wakatime.com/@018df321-f2ae-4b96-956c-e043943eac57)
 <a href="https://www.codewars.com/users/Kukumberchik" align="center"> <img src="https://www.codewars.com/users/Kukumberchik/badges/large"/> </a>
 <p align="center">
-<img width="80" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html">
-<img width="80" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css">
-<img width="91" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="javascript">
-<img width="80" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="typescript">
-<img width="93" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react">
-<img width="85" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next">
-<img width="85" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass">
-<img width="85" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git">
-<img width="89" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="firebase">
-<img width="80"  src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" alt="codewars">
+<img width="70" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html">
+<img width="70" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css">
+<img width="81" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="javascript">
+<img width="70" src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="typescript">
+<img width="83" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png" alt="react">
+<img width="75" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next">
+<img width="75" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="sass">
+<img width="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="git">
+<img width="79" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Firebase_icon.svg/2048px-Firebase_icon.svg.png" alt="firebase">
+<img width="70"  src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" alt="codewars">
 </p>
 
 
