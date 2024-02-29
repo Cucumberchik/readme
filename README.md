@@ -1,4 +1,4 @@
-[![wakatime](https://wakatime.com/badge/user/018df321-f2ae-4b96-956c-e043943eac57.svg)](https://wakatime.com/@018df321-f2ae-4b96-956c-e043943eac57)
+
 <a href="https://www.codewars.com/users/Kukumberchik" align="center"> <img src="https://www.codewars.com/users/Kukumberchik/badges/large"/> </a>
 <p align="center">
 <img width="70" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html">
@@ -14,6 +14,10 @@
 </p>
 
 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Kukumberchick&show_icons=true&theme=bear"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Kukumberchick&theme=dark&hide_border=true"/>
+  <p/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
