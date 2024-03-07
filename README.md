@@ -1,6 +1,7 @@
 
 <a href="https://www.codewars.com/users/Cucumberchik/badges/large" align="center"> <img src="https://www.codewars.com/users/Cucumberchik/badges/large"/> </a>
 <p align="center" > 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙐𝙢𝙖𝙧 👋</p>
+<p align="center"> I am a student and study at institutions 💻</p>
 <p align="center">
 <img width="70" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html">
 <img width="70" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css">
