@@ -2,9 +2,8 @@
 <a href="https://www.codewars.com/users/Cucumberchik/badges/large" align="center"> <img src="https://www.codewars.com/users/Cucumberchik/badges/large"/> </a>
 <p align="center" > 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙐𝙢𝙖𝙧 👋</p>
 <p align="center"> I am a student and study at institutions 💻</p>
-||| |||||| ||||||||| ||||||||| ||||||||||| |||||| |||||||||| ||||||| |||||| |||||||| ||| |||||| ||||||||| ||||||||| ||||||||||| |||||| |||||||||| ||||||| |||||| |||||||| 
-<p align="center">
 
+<p align="center">
 <img width="40" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png" alt="html">
 <img width="40" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="css">
 <img width="51" src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/javascript-3.png" alt="javascript">
@@ -17,8 +16,6 @@
 <img width="40"  src="https://camo.githubusercontent.com/dfb7129b176d0f6559d3c67365d99ad2a510d2eab5afdd28612e163344f35f79/68747470733a2f2f646f63732e636f6465776172732e636f6d2f6c6f676f2e737667" alt="codewars">
 
 </p>
- ||| |||||| ||||||||| ||||||||| ||||||||||| |||||| |||||||||| ||||||| |||||| |||||||| ||| |||||| ||||||||| ||||||||| ||||||||||| |||||| |||||||||| ||||||| |||||| |||||||| 
-
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=Cucumberchik&show_icons=true&theme=bear" width="400"/>
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cucumberchik&theme=dark&hide_border=true" width="425"/>
