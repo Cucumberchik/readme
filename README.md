@@ -1,6 +1,6 @@
 
 <a href="https://www.codewars.com/users/Cucumberchik/badges/large" align="center"> <img src="https://www.codewars.com/users/Cucumberchik/badges/large"/> </a>
-<p align="center" > 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙐𝙢𝙖𝙧 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /></p>
+<p align="center"> 𝙃𝙚𝙡𝙡𝙤 𝙢𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙐𝙢𝙖𝙧  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /></p>
 <p align="center"> I am a student and study at institutions 💻</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Cucumberchik&hide=html&show_icons=true&theme=dark&hide_border=true" width="200"/>
